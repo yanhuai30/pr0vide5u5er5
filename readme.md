@@ -1,0 +1,1 @@
+The purpose of this project is to create a website that provides users with information about local farmers' markets. It includes a directory of markets, information about vendors and products, and a calendar of upcoming events.
